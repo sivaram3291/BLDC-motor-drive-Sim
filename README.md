@@ -11,3 +11,9 @@ Download the ".mdl" file and open with Matlab with versions from 2018a
 
 
 These files could be the starting point for designing the custom BLDC motor drive projects.
+
+
+
+
+
+![IMG_20181023_101533-min](https://user-images.githubusercontent.com/33948247/157225498-0761d8b7-aaac-464f-9a8b-d9d9ce963ec3.jpg)
